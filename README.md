@@ -16,9 +16,3 @@ Sistema desktop desenvolvido em Java com Swing para gerenciamento de vagas em um
 
 - Java 8 ou superior
 - IDE de sua preferência (IntelliJ IDEA, Eclipse, NetBeans, etc.)
-
-## Como usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/sistema-estacionamento.git
